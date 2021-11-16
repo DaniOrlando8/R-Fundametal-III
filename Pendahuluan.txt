@@ -1,0 +1,5 @@
+Jika kita ingin eksplorasi dan menganalisa data lebih jauh, grafik adalah tipe tampilan yang tidak bisa ditawar. 
+R memiliki pustaka (library) dengan fungsi-fungsi yang kaya untuk menghasilkan grafik.
+
+Bab ini akan berisi perkenalan singkat dan padat untuk menunjukkan kemampuan ini dengan menggunakan package ggplot2. 
+Dengan pendekatan yang bersifat demo, kamu cukup mengikuti petunjuk sehingga bisa membayangan apa saja yang dapat kamu lakukan dengan ggplot2.

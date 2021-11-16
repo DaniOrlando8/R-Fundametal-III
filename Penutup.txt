@@ -1,0 +1,9 @@
+Penutup
+Dengan berakhirnya demo grafik terakhir, berakhir juga modul "R Fundamental for Data Science". Sepanjang modul ini kamu sudah mempelajari keterampilan R sebagai berikut:
+
+Mengerti apa dan kenapa R digunakan oleh para data scientist.
+Menguasai dasar bahasa R seperti penggunaan teks, angka, rumus, dan bagaimana melihat error.
+Menguasai penggunaan tipe data fundamental R, yaitu list, vector dan data frame.
+Mengerti penggunaan package tambahan untuk membaca file Excel.
+Mengenali bagaimana grafik dihasilkan di R dengan menggunakan package bernama ggplot2.
+Perjalanan awal ini telah membekali kamu untuk menguasai fitur R lainnya seperti advanced data visualization (dashboard dan map), machine learning, dan otomatisasi big data.
